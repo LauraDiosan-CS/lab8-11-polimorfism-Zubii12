@@ -1,0 +1,5 @@
+zubii2 2Dec 2 a a 1.2 profi2
+zubii3 3Dec 1 s 1.3 profi3
+aa aa 4 s a s d 2.3 aa
+a a 3 s s s 2 a
+as as 3 as as as 2 as
