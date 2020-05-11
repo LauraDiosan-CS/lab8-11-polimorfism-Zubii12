@@ -1,0 +1,5 @@
+Mancare zubii1 1Dec 1.10 2 oua1 oua1
+Mancare zubii2 2Dec 1.20 2 oua2 oua2
+Shopping zubii1 1Dec 1.20 profi2 2 oua2 oua2
+Shopping zubii2 2Dec 1.20 profi2 2 oua2 oua2
+Shopping zubii3 3Dec 1.30 profi3 2 oua3 oua3
